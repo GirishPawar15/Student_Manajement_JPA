@@ -1,9 +1,12 @@
 # 🎓 Student Management System – Maven Project
 
+---
 <b>📞Contact Details:</b>
-     <br><li>  Girish Pawar (Team Leader)</li>
+     <br>
+     <li>  Girish Pawar (Team Leader)</li>
       <li>  Ziyan Kazi</li>
       </br>
+---
 
 <b>  Project Structure:  </b>
 <ul>
@@ -29,6 +32,8 @@
 <li>      ├── target/</li>
 <li>      ├── pom.xml</li>
 </ul>
+
+---
 
       
 
@@ -62,6 +67,8 @@ A console-based **Student Management System** developed using:
 
 ---
 
+
+
 ## 🛠️ Technologies Used
 
 | Tool/Technology     | Version                     |
@@ -76,6 +83,19 @@ A console-based **Student Management System** developed using:
 
 ---
 
+
+
 💡 Future Enhancements   
           -Integrate Spring Boot for REST API
+          -Web or JavaFX UI
+          - Form validation and DTOs
+          - Unit tests
+
+
+---
+
+
+          
 ![Student Management Screenshot](img/girish.png)
+
+---
