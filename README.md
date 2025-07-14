@@ -76,7 +76,6 @@ A console-based **Student Management System** developed using:
 
 ---
 
-💡 Future Enhancements
-        
+💡 Future Enhancements   
           -Integrate Spring Boot for REST API
 ![Student Management Screenshot](img/girish.png)
