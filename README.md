@@ -79,8 +79,4 @@ A console-based **Student Management System** developed using:
 💡 Future Enhancements
         
           -Integrate Spring Boot for REST API
-          -Add a GUI with JavaFX or Web Interface (HTML/CSS/JS)
-          -Implement DTO pattern and better Exception Handling
-          -Add Unit Tests
-
-```
+![Student Management Screenshot](img/girish.png)
