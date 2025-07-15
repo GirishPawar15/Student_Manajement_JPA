@@ -86,11 +86,12 @@ A console-based **Student Management System** developed using:
 
 
 💡 Future Enhancements   
-          -Integrate Spring Boot for REST API
-          -Web or JavaFX UI
-          - Form validation and DTOs
-          - Unit tests
-
+        <ul>
+         <li>Integrate Spring Boot for REST API</li>
+          <li>Web or JavaFX UI</li>
+          <li>Form validation and DTOs</li>
+          <li>Unit tests</li>
+</ul>
 
 ---
 
