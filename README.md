@@ -1,11 +1,15 @@
 # 🎓 Student Management System – Maven Project
 
 ---
-<b>📞Contact Details:</b>
-     <br>
-     <li>  Girish Pawar (Team Leader)</li>
-      <li>  Ziyan Kazi</li>
-      </br>
+
+📞Contact Details:
+
+      1. Girish Pawar (Team Leader) 
+         📬mail_ID : girishpawar1512@gmail.com
+   
+       2. Ziyan Kazi
+
+        
 ---
 
 <b>  Project Structure:  </b>
